@@ -1,5 +1,7 @@
 You recently read that meditation helps you feel more awake, relieves stress, and helps you prepare for the day ahead.
 
+You then whip out your iPhone to open up the Headspace meditation app.
+
 So you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
 
 The vision of dancing women flying from cloud to cloud are magical.
@@ -20,13 +22,19 @@ Answer: sit, stare, fill your consciousness with Git
 
 Afterwards, you decide to:
 
+[go to a warriors game](../warriors-game/watch-warriors.md)
+
 [dance with joy](../dance/dance.md)
+
+[bake cookies!](../bake-cookies/cookies.md)
 
 [invite friends to party with you](../invite-friends/friends.md)
 
 [begin your journey](../explore-outside/explore-outside.md)
 
 [do Yoga for 30 min](../yoga/yoga.md)
+
+[write a symphony](../write-a-symphony/symphony.md)
 
 [go for a run](../run/run.md)
 

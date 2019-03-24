@@ -1,7 +1,11 @@
 Te trezesti intr-o dimineatza si patul este facut din nalbe. 
 Ce faci?
 
+[Il chemi pe Ginel](Ginel/ginel.md)
+
 [Te apuci sa faci un foc](foc/faci-foc.md)
+
+[Te culci la loc](somn/somn.md)
 
 Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
 Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
@@ -44,6 +48,8 @@ Si ii dadu zanei nalbele, iar zana se puse pe treaba, sa faca potiunea cea ferme
 
 Plictisita, Gina pleca sa-si cumpere Orbit.
 
+Si merse, merse, cale lunga pana la [magazinul cel mare](magazin/oferta-speciala.md).
+
 Ginel continua sa se holbeze la zana cand, dintr-odata, puhhh! Un nor rosu
 cuprinse zana de la genunchi pana peste cap, asa incat inca i se mai vedeau
 pantofi albastrii...
@@ -62,3 +68,20 @@ sau...
 
 Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei (bautura si femei).
 
+[Beau tot](Beau/Beau_paharul_pana_la_fund.md)
+
+Apoi ma trezesc chinuit de ganduri stranii. 
+
+[Adevarate framantari filosofice](panda/marmota.md).
+
+Incep sa ma percep la persoana a III-a.
+
+Subit se simtea usor si isi imagina ca zboara - buna [potiunea](potiune_fermecata/potiune.md) asta, gandi el.
+
+Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
+
+[crocobalaurului](padurea_violet/croco/croco.md).
+
+Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
+
+Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
